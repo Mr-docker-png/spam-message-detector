@@ -1,0 +1,72 @@
+# Spam Message Detector using Naive Bayes
+
+## Project Overview
+This project is a simple NLP (Natural Language Processing) application that detects whether a message is spam or not spam using Machine Learning.
+
+The model uses:
+- CountVectorizer
+- Multinomial Naive Bayes
+
+---
+
+## Features
+- Spam Message Detection
+- User Input Prediction
+- Text Vectorization
+- NLP-Based Classification
+- Probability-Based Learning
+
+---
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+---
+
+## Machine Learning Workflow
+1. Create Dataset
+2. Convert Text into Numbers
+3. Train-Test Split
+4. Train Naive Bayes Model
+5. Predict Spam or Ham
+6. User Input Prediction
+
+---
+
+## Algorithm Used
+Multinomial Naive Bayes
+
+Reason:
+Efficient and powerful for text classification problems like spam detection.
+
+---
+
+## Concepts Learned
+- NLP Basics
+- Bag of Words
+- Text Vectorization
+- Naive Bayes
+- Probability-Based Classification
+- Machine Learning Pipelines
+
+---
+
+## Example Messages
+Spam:
+- Win free money now
+- Claim lottery prize
+
+Ham:
+- Hello friend
+- See you tomorrow
+
+---
+
+## Future Improvements
+- Larger Dataset
+- Real SMS Spam Dataset
+- GUI Version
+- Web App Deployment
+- Deep Learning NLP
